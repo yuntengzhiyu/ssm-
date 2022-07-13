@@ -2,7 +2,7 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-  <title>首页</title>
+  <title>首页的内容</title>
   <style type="text/css">
     a {
       text-decoration: none;
